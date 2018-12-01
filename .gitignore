@@ -215,6 +215,6 @@ spark_spark_kvstore_2_11_2_4_0.xml
 .idea/workspace.xml
 MyCodeNotes.iml
 apache_spark/apache_spark.iml
-basic_java/src/main/java/com/bitscott/juc/
-basic_java/src/main/resources/
-basic_java/src/test/
+basic_java/target/generated-sources/
+basic_java/target/maven-archiver/
+basic_java/target/maven-status/
