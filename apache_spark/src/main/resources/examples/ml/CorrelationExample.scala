@@ -53,7 +53,7 @@ object CorrelationExample {
     val Row(coeff1: Matrix) = Correlation.corr(df, "features").head
     println(s"Pearson correlation matrix:\n $coeff1")
 
-    val Row(coeff2: Matrix) = Correlation.corr(df, "features", "spearman").head
+    val Row(coeff2: Matrix) = Corr0elation.corr(df, "features", "spearman").head
     println(s"Spearman correlation matrix:\n $coeff2")
     // $example off$
 
