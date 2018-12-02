@@ -2,5 +2,6 @@ package com.bitscott
 
 object Application extends App {
 
-  println(123)
+  val res = List("a", "b", "c").toSet + "d"
+  println(res)
 }
