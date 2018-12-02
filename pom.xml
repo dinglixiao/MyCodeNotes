@@ -11,6 +11,7 @@
     <modules>
         <module>apache_spark</module>
         <module>basic_java</module>
+        <module>basic_scala</module>
     </modules>
 
 </project>
